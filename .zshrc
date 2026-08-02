@@ -14,7 +14,3 @@ export EDITOR=nvim
 export VISUAL=nvim
 export LIBVIRT_DEFAULT_URI="qemu:///system"
 export LD_LIBRARY_PATH=/usr/lib:$LD_LIBRARY_PATH
-
-source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-eval "$(mise activate zsh)"
