@@ -3,7 +3,6 @@
 Example config:
 
 ```json
-```
 {
   "image": "mcr.microsoft.com/devcontainers/rust",
   "features": {
@@ -25,5 +24,4 @@ Example config:
     "git clone https://github.com/TimotheeRen/dotfiles.git ~/.config && ~/.config/setup.sh"
   ]
 }
-```
 ```
