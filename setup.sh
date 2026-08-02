@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-mv .zshrc ../.zshrc
+mv ~/.config/.zshrc ~/.zshrc
